@@ -1,0 +1,11 @@
+<! 1.head tag
+   2.TiTle tag
+   3.Body tag
+   4.<p></p>
+   5.<h1>...<h6> tag 
+   6.<a> ancho tag
+      <a href>hyperRefrance
+   7.<img src>
+   8.<ol> orderd list
+   9.<ul> unorderd list
+   10.<dl> Defination List

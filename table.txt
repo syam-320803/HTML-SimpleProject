@@ -1,0 +1,15 @@
+Tables are used to represents the data in row and columns
+table use 'table' tag 
+you can have attributes for yable such as boarder,cellspacing and cellpadding 
+every table row will have 'te'tag 
+columns are represented by th of td tag 
+th- table head,by default it is hold and centerd 
+to combine rows in table,we  can use rowspan 
+to combine columns,we can use colspan 
+Title of table can be give using caption 
+
+
+Task 1:
+    www web site 
+Task 2:
+    create table of skills you have with ranking

@@ -1,0 +1,46 @@
+
+===============
+9-Oct-2024
+==============
+HTML will show in structure only.
+
+list is one of the order
+List in HTML can be dentoted in 3 ways
+  1. orderd list
+  2.unorderd list
+  3.defination or description list 
+---------------------------------------------------------------------------------------------------------------------------
+  1. orderd list:
+       Some list an orderd to represents this item those are defined by orderd list.orderd list use 'ol'.each list item inside the list use 'li' tag 
+       
+        ==>Short Cut: ol>li*3
+      
+       Eg:<ol>
+            <li>abc</li>
+            <li>xyz</li>
+            <li>123</li>
+           </ol>
+        by default numbers will be assign as type. we can also assign any type want.we have five options(1,A,a,I,i)
+         
+         we can also start from 
+-------------------------------------------------------------------------------------------------------------------------
+
+   2.unorderd list:
+       these list are used when order is not important
+      --> unorderd list uses <ul> tag\
+
+           
+       ==>Short Cut: ul>li*3
+      ----> we can use type such as circle,square,none bullet point will be there
+
+---------------------------------------------------------------------------------------------------------------------------
+   3. Defination List:
+      ----> these list are used to define topics, to note the events,to keep history
+      -----> defination lists use <dl> tag.inside the dl,we  have dd(defination term)
+         ==>Short Cut: dl>(dt+dd*3)
+----------------------------------------------------------------------------------------------------------------------------
+===============
+30-Oct-2024
+===============
+==> h4*4
+==>td*3
